@@ -85,7 +85,6 @@ import androidx.core.widget.EdgeEffectCompat;
 import androidx.customview.poolingcontainer.PoolingContainer;
 import androidx.customview.poolingcontainer.PoolingContainerListener;
 import androidx.customview.view.AbsSavedState;
-import androidx.recyclerview.R;
 import androidx.recyclerview.widget.RecyclerView.ItemAnimator.ItemHolderInfo;
 
 import java.lang.annotation.Retention;
